@@ -9,11 +9,12 @@ Número do grupo no Canvas: TDE 10.
 
 Integrantes: Gabriel Koji Takii, Geovanna Vitória Brito Soares, Leonardo Michel de Araujo Iankoska e Rhadija Lopes de Souza.
 
-Nome de usuário de cada integrante do Github: 
-Gabriel Koji Takii: GabrielTakii-Perfil
-Geovanna Vitória Brito Soares: Geovann7
-Leonardo Michel de Araujo Iankoska: Leonardoiankoska
-Rhadija Lopes de Souza: Rhadijante13-byte
+Nome de usuário de cada integrante do Github:
+
+Gabriel Koji Takii: GabrielTakii-Perfil,
+Geovanna Vitória Brito Soares: Geovann7,
+Leonardo Michel de Araujo Iankoska: Leonardoiankoska,
+Rhadija Lopes de Souza: Rhadijante13-byte.
 
 Linguagem escolhida para o desenvolvimento do trabalho: Java.
 
